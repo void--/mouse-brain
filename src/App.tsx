@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { lighten } from "polished";
 import { scaleLinear } from "d3-scale";
+// @ts-ignore
 import toImg from "react-svg-to-image";
 import "./App.css";
 
